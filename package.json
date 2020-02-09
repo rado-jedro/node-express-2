@@ -1,0 +1,11 @@
+{
+  "name": "node-express-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rado-jedro/node-express-2.git",
+  "author": "Rado Jedro <radoslaw.jedro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
